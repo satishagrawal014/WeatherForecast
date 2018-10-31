@@ -10,7 +10,7 @@ import {
 import axios from 'axios';
 
 const API_KEY = "4520bd98111d19b7";
-const DEFAULT_zipcode = 313001;
+const DEFAULT_zipcode = 90210;
 
 export default class WeatherApp extends React.Component {
 
